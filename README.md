@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho como programador de CLP na área de automação industrial
-- 🌱 Estou estudando Angular
+- 🌱 Estou estudando Angular e .net
 - 😄 Ele/Dele
 
  
