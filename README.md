@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como programador de CLP na área de automação industrial
+- 🔭 Atualmente trabalho como backend developer
 - 🌱 Estou estudando Angular e .net
 - 😄 Ele/Dele
 
