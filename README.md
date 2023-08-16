@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho como backend developer
-- 🌱 Estou estudando Angular e .net
+- 🔭 Atualmente procurando oportunidades como backend developer ou fullstack
+- 🌱 Estou estudando GoLang e Python
 - 😄 Ele/Dele
 
  
