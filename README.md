@@ -22,6 +22,8 @@
   <img align="center" alt="Porto-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Porto-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img aling="center" alt="Porto-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Porto-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
 
 </div>
   
@@ -35,6 +37,6 @@
   <a href = "mailto:gabrielportol@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-luiz-porto-4688411b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!-- ![Snake animation](https://github.com/GabrielP0rt0/GabrielP0rt0/blob/output/github-contribution-grid-snake.svg)-->
+  <!--![Snake animation](https://github.com/GabrielP0rt0/GabrielP0rt0/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
